@@ -1,0 +1,1 @@
+Given a set of BMP images (assuming they use a 24-bit RGB format), this program will check for all LSB substitutions in the RGB channels. 
