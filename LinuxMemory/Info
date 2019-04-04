@@ -1,0 +1,6 @@
+A c++ program that analyzes a memory dump file from a Linux system and outputs information on the running proccesses. 
+This includes process identifier (PID) and parent's process identifier (PPID),
+User identifier (UID),
+Total size (in KB) of virtual memory areas (VMZ),
+Memory address where process descriptor of the process starts (TASK),
+Name of the process
